@@ -5,7 +5,7 @@ This project has been fully tested on Ubuntu 18.03.
 
 `client.py` is for client node that send the failed SSH attempt to S3 bucket. 
 
-`master.py` is for master node to view the failerd SSH attempt of client nodes from S3 bucket.
+`master.py` is for master node to view the failed SSH attempt of client nodes from S3 bucket.
 
 ## Setup
 Kindly ensure that you have Python3, pip3, and awscli installed properly.
